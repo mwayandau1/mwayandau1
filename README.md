@@ -4,7 +4,7 @@ I am a final year computer science student and a backend software engineer.
 
 Skills: Nodejs, React, Tailwind, sequelize
 
-- 🔭 I’m currently working on Databases: 
+Databases: Postgresql, MongoDb, Mysql
 - 🌱 I’m currently learning Java/Spring boot 
 
 
