@@ -11,7 +11,6 @@
 
 - 👯 I’m looking to collaborate with **Developers around the globe**
 
-- 🤝 I’m looking for help **Newbies in Software development**
 
 - 💬 Ask me about **Nodej and React**
 
