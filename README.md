@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Moses Winbood Ayandau</h1>
 <h3 align="center">A final year computer science student and software engineer specialized in backend development</h3>
-<img alt="Coder GIF" height=250 width=600 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 
 
 - 🔭 I’m currently working with on [Access Key Manager](https://github.com/mwayandau1/accessKeyManager)
@@ -15,6 +14,11 @@
 - 💬 Ask me about **Nodej and React**
 
 - 📫 How to reach me **mosesayandau1@gmail.com**
+
+  ## Some of my Projects
+  - [Access Key Manager](https://github.com/mwayandau1/accessKeyManager)
+  - [Ecommerce API](https://e-ecommerce-api-nodejs-1.onrender.com/)
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
